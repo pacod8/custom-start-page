@@ -68,7 +68,7 @@ body, html {
   grid-template-areas: 
     "youtube github notion linkedin"
     "whatsapp calendar gmail tidal"
-    "onedrive matter synology todoist"; 
+    "onedrive matter twitter todoist"; 
 }
 
 
@@ -122,7 +122,7 @@ body, html {
   align-items: center;
   justify-content: center;
 }
-.synology { grid-area: synology; 
+.twitter { grid-area: twitter; 
   display: flex;
   align-items: center;
   justify-content: center;

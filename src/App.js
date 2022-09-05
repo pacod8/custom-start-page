@@ -14,40 +14,40 @@ function App() {
   </div>
   <div className='info scale-up-ver-center'>
     <div class="youtube">
-      <CircumIcon name="youtube" color="white" size="60px"/>
+      <a href='https://www.youtube.com' target="_blank"><CircumIcon name="youtube" color="white" size="60px"/></a>
     </div>
     <div class="github">
-      <CircumIcon name="route" color="white" size="60px"/>
+      <a href='https://github.com/pacod8' target="_blank"><CircumIcon name="route" color="white" size="60px"/></a>
     </div>
     <div class="notion">
-      <CircumIcon name="bacon" color="white" size="60px"/>
+      <a href='https://www.notion.so' target="_blank"><CircumIcon name="bacon" color="white" size="60px"/></a>
     </div>
     <div class="linkedin">
-      <CircumIcon name="linkedin" color="white" size="60px"/>
+      <a href='https://www.linkedin.com' target="_blank"><CircumIcon name="linkedin" color="white" size="60px"/></a>
     </div>
     <div class="whatsapp">
-      <CircumIcon name="chat_1" color="white" size="60px"/>
+      <a href='https://web.whatsapp.com' target="_blank"><CircumIcon name="chat_1" color="white" size="60px"/></a>
     </div>
     <div class="calendar">
-      <CircumIcon name="calendar" color="white" size="60px"/>
+      <a href='https://calendar.google.com' target="_blank"><CircumIcon name="calendar" color="white" size="60px"/></a>
     </div>
     <div class="gmail">
-      <CircumIcon name="mail" color="white" size="60px"/>
+      <a href='https://mail.google.com' target="_blank"><CircumIcon name="mail" color="white" size="60px"/></a>
     </div>
     <div class="tidal">
-      <CircumIcon name="music_note_1" color="white" size="60px"/>
+      <a href='https://listen.tidal.com/' target="_blank"><CircumIcon name="music_note_1" color="white" size="60px"/></a>
     </div>
     <div class="onedrive">
-      <CircumIcon name="cloud" color="white" size="60px"/>
+      <a href='https://liveutad-my.sharepoint.com' target="_blank"><CircumIcon name="cloud" color="white" size="60px"/></a>
     </div>
     <div class="matter">
-      <CircumIcon name="bookmark" color="white" size="60px"/>
+      <a href='https://web.getmatter.app' target="_blank"><CircumIcon name="bookmark" color="white" size="60px"/></a>
     </div>
-    <div class="synology">
-      <CircumIcon name="database" color="white" size="60px"/>
+    <div class="twitter">
+      <a href='https://twitter.com/home' target="_blank"><CircumIcon name="twitter" color="white" size="60px"/></a>
     </div>
     <div class="todoist">
-      <CircumIcon name="circle_list" color="white" size="60px"/>
+      <a href='https://todoist.com/app/today' target="_blank"><CircumIcon name="circle_list" color="white" size="60px"/></a>
     </div>
   </div>
 </div>
