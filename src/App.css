@@ -66,9 +66,71 @@ body, html {
   grid-template-rows: 1fr 1fr 1fr; 
   gap: 10px 12px; 
   grid-template-areas: 
-    ". . . ."
-    ". . . ."
-    ". . . ."; 
+    "youtube github notion linkedin"
+    "whatsapp calendar gmail tidal"
+    "onedrive matter synology todoist"; 
+}
+
+
+.youtube { grid-area: youtube;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.github { grid-area: github;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.notion { grid-area: notion; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.linkedin { grid-area: linkedin;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.whatsapp { grid-area: whatsapp; 
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
+.calendar { grid-area: calendar; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gmail { grid-area: gmail; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tidal { grid-area: tidal; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.onedrive { grid-area: onedrive; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.matter { grid-area: matter; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.synology { grid-area: synology; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.todoist { grid-area: todoist; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 

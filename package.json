@@ -40,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "@klarr-agency/circum-icons-react": "^1.0.5",
     "gh-pages": "^4.0.0"
   }
 }
