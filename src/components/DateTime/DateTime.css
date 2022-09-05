@@ -1,0 +1,16 @@
+
+.date-time{
+    font-size: 20px;
+    color: white;
+    padding: 0;
+    width: 100%;
+  }
+
+.date-container{
+    position: absolute;
+    top: 34%;
+    padding: 0%;
+    left: 50%;
+}
+  
+  
